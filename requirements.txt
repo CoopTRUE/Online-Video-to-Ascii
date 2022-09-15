@@ -1,0 +1,5 @@
+flask
+Pillow
+cv2
+werkzeug
+numpy
